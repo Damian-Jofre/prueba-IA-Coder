@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Almacén La Esquina | Gestión diaria",
-  description: "Gestioná tus fiados, clientes, stock y balance desde un solo lugar.",
+  title: "Almacén La Esquina | Catálogo",
+  description: "Buscá productos, consultá precios y ajustá el stock de tu almacén.",
 };
 
 export default function RootLayout({
